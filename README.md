@@ -2,7 +2,7 @@
 
 # Automated VA Website Scraper
 
-![Python](https://img.shields.io/badge/Python-3.9%2B-blue) ![Selenium](https://img.shields.io/badge/Selenium-WebDriver-4.0%2B-brightgreen) ![ChromeDriver](https://img.shields.io/badge/ChromeDriver-Headless--compatible-blue) ![License](https://img.shields.io/github/license/your-username/va-scraper)
+![Python](https://img.shields.io/badge/Python-3.9%2B-blue) ![Selenium](https://img.shields.io/badge/Selenium-WebDriver-4.0%2B-brightgreen) [ChromeDriver](https://img.shields.io/badge/ChromeDriver-Headless--compatible-blue) 
 
 *Structured, headless data extraction from the U.S. Department of Veteran Affairs site*
 
