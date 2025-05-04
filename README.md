@@ -16,8 +16,6 @@
 
 ## ✨ Key Features
 
-<details>
-<summary>Expand to view details</summary>
 
 - 🕶️ **Headless Chrome**  
   Runs ChromeDriver in headless mode to eliminate UI overhead and integrate seamlessly on servers or pipelines.
